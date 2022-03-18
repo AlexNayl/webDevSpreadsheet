@@ -1,0 +1,30 @@
+.spreadSheetSelectedColor{
+	background-color: #e0e0ff;
+}
+
+.spreadsheetDiv{
+	text-align: center;
+}
+
+.spreadsheetTable{
+	margin: auto;
+	margin-top: 10%;
+	text-align: center;
+	vertical-align: middle;
+	border-collapse: collapse;
+
+}
+
+.spreadsheetTable td {
+	border: black  solid 1px;
+	padding: 10pt;
+	width: 100pt;
+}
+
+.spreadsheetTable tr:nth-child(1){
+	background-color: #d0d0d0;
+}
+
+.spreadsheetTable td:nth-child(1){
+	background-color: #d0d0d0;
+}
