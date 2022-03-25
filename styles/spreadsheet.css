@@ -28,3 +28,7 @@
 .spreadsheetTable td:nth-child(1){
 	background-color: #d0d0d0;
 }
+svg{
+	display:block;
+	margin: auto;
+}
